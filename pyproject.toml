@@ -17,6 +17,8 @@ dependencies = [
     "pydantic-settings>=2.1.0",
     "aiofiles>=23.2.0",
     "scipy>=1.10.0",
+    "rfdetr>=0.1.0",
+    "supervision>=0.18.0",
 ]
 
 [project.optional-dependencies]
