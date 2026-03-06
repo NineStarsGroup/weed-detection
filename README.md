@@ -1,6 +1,6 @@
 # Weed Detection API
 
-AI-powered weed detection using OWLv2 few-shot learning. Upload reference images of weeds, then detect them in lawn photos - no training required.
+AI-powered weed detection using OWLv2 few-shot learning. Upload reference images of weeds, then detect them in lawn photos - no training required. 
 
 ## Quick Start
 
